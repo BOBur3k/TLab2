@@ -2,27 +2,14 @@
 
 Credit to the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) for this template. To complete this project, delete all template text (save for the headers) and fill in your own information.
 
-Begin reading `instructions.md` to get started.
-
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The aim of this project is to analyze data and assist the user in obtaining important information regarding the average and median prices of a stock. As an example, we have used the stock performance of $AMZN from March 2 to April 27. The current code can also calculate the standard deviation for the same data.
 
 ### Methods Used
 * Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
 
 ### Technologies
-* R 
-* Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* Python 
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+This piece of code utilizes the concept of for loops to perform data manipulations and computations instead of relying on statistical packages such as statistics, pandas, or numphy. The code is designed to handle empty datasets seamlessly and to work with accurate data. It ensures that the computations are performed on the correct data and the results produced are reliable.
